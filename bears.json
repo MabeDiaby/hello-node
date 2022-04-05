@@ -1,0 +1,13 @@
+[
+    {
+        "needsCoffee": true,
+        "name": "Backen D'Coder",
+        "password":"serverside",
+        "hobbies":[
+            "reading",
+            "writing",
+            "coding",
+            "chess"
+        ]
+    }
+]
